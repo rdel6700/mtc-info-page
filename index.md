@@ -11,6 +11,7 @@ Hi, I'm Ronin D.. Check out my repos!
 | Project Name | Web Page | Link |
 | - | - |
 | mtc-backend-prod | No Page | [GitHub](https://github.com/rdel6700/mtc-backend-prod.git) |
+| mtc-frontend-prod | No Page | [GitHub](https://github.com/rdel6700/mtc-frontend-prod.git) |
 | mtc-infra-prod | [Webpage](https://rdel6700.github.io/mtc-infra-prod/) | [GitHub](https://github.com/rdel6700/mtc-infra-prod.git) |
 
 ---
